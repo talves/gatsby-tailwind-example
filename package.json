@@ -1,0 +1,13 @@
+{
+  "name": "tailwind-gatsby-site",
+  "private": true,
+  "author": "Tony Alves <tony@3alves.com> (https://www.3alves.com/)",
+  "workspaces": [
+    "www/*",
+    "packages/@talves/*"
+  ],
+  "scripts": {
+    "d": "yarn workspace site start"
+  },
+  "version": "0.0.0"
+}
