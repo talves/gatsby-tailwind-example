@@ -14,7 +14,7 @@
     "@mdx-js/mdx": "^1.5.3",
     "@mdx-js/react": "^1.5.3",
     "gatsby": "2.19.21",
-    "gatsby-plugin-mdx": "^1.0.64",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-plugin-postcss": "^2.1.20",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
